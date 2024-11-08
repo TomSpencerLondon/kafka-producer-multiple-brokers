@@ -45,7 +45,7 @@ Formatting metadata directory /tmp/kraft-combined-logs with metadata.version 3.9
 [2024-11-08 14:55:39,974] INFO Registered kafka:type=kafka.Log4jController MBean (kafka.utils.Log4jControllerRegistration$)
 
 ```
-
+### Consumer
 ```bash
 ➜  kafka_2.13-3.9.0 ./bin/kafka-console-consumer.sh --topic product-created-events-topic --bootstrap-server localhost:9092 --property print.key=true
 
