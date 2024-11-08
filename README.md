@@ -52,4 +52,3 @@ Formatting metadata directory /tmp/kraft-combined-logs with metadata.version 3.9
 
 5b37ea86-dcf0-45c3-a42f-94663692e241	{"productId":"5b37ea86-dcf0-45c3-a42f-94663692e241","title":"iPhone 11","price":800,"quantity":19}
 ```
-# kafka-producer-multiple-brokers
